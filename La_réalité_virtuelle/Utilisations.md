@@ -93,3 +93,11 @@ SILEM, Amar. Communication réalité virtuelle - Comment communiquer efficacemen
 JOURDAIN, par Camille. Réalité virtuelle : pourquoi et comment communiquer avec des contenus photos et vidéos 360 | Le Blog iStock. Dans : iStock Blog [en ligne]. [s. d.]. [Consulté le 4 juin 2019]. Disponible à l’adresse : [http://content.istockphoto.com/fr/blog/realite-virtuelle-communiquer-contenus-photos-videos-360/](http://content.istockphoto.com/fr/blog/realite-virtuelle-communiquer-contenus-photos-videos-360/)
 ![image](https://user-images.githubusercontent.com/50197262/59215832-8f8bea00-8bba-11e9-8f53-3068532c7197.png)
 
+<br/>
+
+- La culture : 
+<br/>
+
+TEXIER, Bruno. Quand la réalité virtuelle reconstitue le patrimoine. Dans : Archimag [en ligne]. 4 août 2017. [Consulté le 4 juin 2019]. Disponible à l’adresse : [https://www.archimag.com/archives-patrimoine/2017/08/04/quand-realite-virtuelle-reconstitue-patrimoine](https://www.archimag.com/archives-patrimoine/2017/08/04/quand-realite-virtuelle-reconstitue-patrimoine)
+![image](https://user-images.githubusercontent.com/50197262/59216092-2e184b00-8bbb-11e9-8e1d-dee9df28bcb2.png)
+
