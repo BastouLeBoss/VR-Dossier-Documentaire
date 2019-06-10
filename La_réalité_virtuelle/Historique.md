@@ -34,3 +34,7 @@ USBEK & RICA. La très brève histoire de la réalité virtuelle [en ligne]. 4 
  
 <br/>
 
+
+OPIUM, Testing. Chronique - Histoire de la réalité virtuelle [en ligne]. aout 2017. [Consulté le 10 juin 2019]. Disponible à l’adresse : [https://www.youtube.com/watch?v=hcZ863EJNpQ](https://www.youtube.com/watch?v=hcZ863EJNpQ)
+![image](https://user-images.githubusercontent.com/50197262/59208839-387e1900-8baa-11e9-952d-6c3a6ad0b103.png)
+
