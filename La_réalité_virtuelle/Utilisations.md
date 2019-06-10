@@ -32,3 +32,7 @@ KLINGER, Evelyne. Apports de la réalité virtuelle à la prise en charge de tro
 
 LECOUVEY, Grégory, GONNEAUD, Julie, EUSTACHE, Francis et DESGRANGES, Béatrice. Les apports de la réalité virtuelle en neuropsychologie : l’exemple de la mémoire prospective. Revue de neuropsychologie. 2012, Vol. Volume 4, nᵒ 4, p. 267‑276. Disponible à l'adresse : [https://www.cairn.info/revue-de-neuropsychologie-2012-4-page-267.htm](https://www.cairn.info/revue-de-neuropsychologie-2012-4-page-267.htm)
 ![image](https://user-images.githubusercontent.com/50197262/59211682-b9401380-8bb0-11e9-8fe2-185bfe5e9423.png)
+
+<br/>
+
+- L'architecture : 
