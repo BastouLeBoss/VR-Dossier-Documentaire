@@ -72,3 +72,7 @@ L’ULiège développe ses premiers projets de réalité virtuelle au service de
 
 FLAURAUD, Jeremy. Réalité virtuelle : l’avenir du jeu vidéo? Dans : Graphite Publications [en ligne]. 12 juillet 2016. [Consulté le 10 juin 2019]. Disponible à l’adresse : [https://graphitepublications.com/realite-virtuelle-lavenir-du-jeu-video/](https://graphitepublications.com/realite-virtuelle-lavenir-du-jeu-video/)
 ![image](https://user-images.githubusercontent.com/50197262/59215010-826dfb80-8bb8-11e9-838d-e1eb7f6b0cfe.png)
+
+<br/>
+
+
