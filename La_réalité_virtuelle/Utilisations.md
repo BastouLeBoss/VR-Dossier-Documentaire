@@ -75,4 +75,12 @@ FLAURAUD, Jeremy. Réalité virtuelle : l’avenir du jeu vidéo? Dans : Gra
 
 <br/>
 
+FREY, Henri. VR et Réalité Augmentée : le futur des Jeux Vidéo est déjà là - PokerStars. Dans : Pokerstars blog [en ligne]. 25 avril 2019. [Consulté le 10 juin 2019]. Disponible à l’adresse : [https://www.pokerstars.fr/fr/blog/2019/vr-et-realite-augmentee-le-futur-des-jeux-video-est-deja-la-180750.shtml?no_redirect=1](https://www.pokerstars.fr/fr/blog/2019/vr-et-realite-augmentee-le-futur-des-jeux-video-est-deja-la-180750.shtml?no_redirect=1)
+![image](https://user-images.githubusercontent.com/50197262/59215308-3a030d80-8bb9-11e9-9876-a11559a559c4.png)
+
+<br/>
+
+- La communication :
+<br/>
+
 
