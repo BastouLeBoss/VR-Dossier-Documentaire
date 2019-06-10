@@ -20,4 +20,6 @@ La réalité virtuelle dans le domaine de la santé. Dans : Thinkmobiles [en 
 
 <br/>
 
+DABADOC. La réalité virtuelle dans le domaine de la santé [en ligne]. 8 octobre 2018. Disponible à l’adresse : [https://www.youtube.com/watch?v=-PEDl1mJLzs](https://www.youtube.com/watch?v=-PEDl1mJLzs)
+![image](https://user-images.githubusercontent.com/50197262/59211113-5dc15600-8baf-11e9-846b-039a1509c09c.png)
 
