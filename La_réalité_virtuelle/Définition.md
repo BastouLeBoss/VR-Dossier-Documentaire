@@ -15,3 +15,6 @@ Wikipedia. La réalité virtuelle [en ligne]. Mise à jour le 13 mai 2019. [Con
 
 Réalité-Virtuelle.com. Définition : Qu’est-ce que la réalité virtuelle ? [en ligne] [Consulté le 28 mai 2019]. Disponible à l’adresse : [https://www.realite-virtuelle.com/definition-realite-virtuelle](https://www.realite-virtuelle.com/definition-realite-virtuelle)
 ![Définition Réalité-Virtuelle](https://user-images.githubusercontent.com/50197262/59144924-1a16f280-89dd-11e9-8325-1345ed527b03.PNG)
+
+
+![Définition Fiction réelle](https://user-images.githubusercontent.com/50197262/59145226-0bcad580-89e1-11e9-8089-41b156547afc.png)
