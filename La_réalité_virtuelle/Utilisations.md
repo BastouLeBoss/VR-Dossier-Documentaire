@@ -65,3 +65,10 @@ LE STUDIO BUS. La réalité virtuelle au service de la science [en ligne]. 5 av
 L’ULiège développe ses premiers projets de réalité virtuelle au service de l’enseignement et de la pédagogie universitaires. Dans : L’ULiège [en ligne]. [Consulté le 10 juin 2019]. Disponible à l’adresse : [https://www.news.uliege.be/cms/c_10573677/fr/l-uliege-developpe-ses-premiers-projets-de-realite-virtuelle-au-service-de-l-enseignement-et-de-la-pedagogie-universitaires](https://www.news.uliege.be/cms/c_10573677/fr/l-uliege-developpe-ses-premiers-projets-de-realite-virtuelle-au-service-de-l-enseignement-et-de-la-pedagogie-universitaires)
 ![image](https://user-images.githubusercontent.com/50197262/59214695-e643f480-8bb7-11e9-9e31-18e811560cbb.png)
 
+<br/>
+
+-Le jeu vidéo : 
+<br/>
+
+FLAURAUD, Jeremy. Réalité virtuelle : l’avenir du jeu vidéo? Dans : Graphite Publications [en ligne]. 12 juillet 2016. [Consulté le 10 juin 2019]. Disponible à l’adresse : [https://graphitepublications.com/realite-virtuelle-lavenir-du-jeu-video/](https://graphitepublications.com/realite-virtuelle-lavenir-du-jeu-video/)
+![image](https://user-images.githubusercontent.com/50197262/59215010-826dfb80-8bb8-11e9-838d-e1eb7f6b0cfe.png)
