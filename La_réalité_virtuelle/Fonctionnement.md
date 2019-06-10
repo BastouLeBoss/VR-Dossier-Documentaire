@@ -16,3 +16,10 @@ LA COMMUNAUTÉ. Le fonctionnement d’un casque VR. IN : etr.fr [en ligne]. 2
 ![image](https://user-images.githubusercontent.com/50197262/59198576-5b053780-8b94-11e9-9d1c-f99403231acf.png)
 ![image](https://user-images.githubusercontent.com/50197262/59199308-ef23ce80-8b95-11e9-805c-424b13c1357c.png)
 
+<br/>
+
+
+Casque de réalité virtuelle : fonctionnement, choix & utilisation | BeDigital.fr. IN : Groupe-digital.fr [en ligne].[Consulté le 10 juin 2019]. Disponible à l’adresse : https://www.group-digital.fr/casque-realite-virtuelle.html
+![image](https://user-images.githubusercontent.com/50197262/59201388-a0c4fe80-8b9a-11e9-9789-6e025ce90303.png)
+
+
