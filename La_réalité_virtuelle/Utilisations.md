@@ -60,5 +60,8 @@ GARROUSTE, Romain. La réalité virtuelle pour mieux apprécier les sciences du 
 LE STUDIO BUS. La réalité virtuelle au service de la science [en ligne]. 5 avril 2019. Disponible à l’adresse : [https://www.youtube.com/watch?v=0vlpiXuiVBM](https://www.youtube.com/watch?v=0vlpiXuiVBM)
 ![image](https://user-images.githubusercontent.com/50197262/59214292-1fc83000-8bb7-11e9-9b02-0ad86c24e1a9.png)
 
+<br/>
 
+L’ULiège développe ses premiers projets de réalité virtuelle au service de l’enseignement et de la pédagogie universitaires. Dans : L’ULiège [en ligne]. [Consulté le 10 juin 2019]. Disponible à l’adresse : [https://www.news.uliege.be/cms/c_10573677/fr/l-uliege-developpe-ses-premiers-projets-de-realite-virtuelle-au-service-de-l-enseignement-et-de-la-pedagogie-universitaires](https://www.news.uliege.be/cms/c_10573677/fr/l-uliege-developpe-ses-premiers-projets-de-realite-virtuelle-au-service-de-l-enseignement-et-de-la-pedagogie-universitaires)
+![image](https://user-images.githubusercontent.com/50197262/59214695-e643f480-8bb7-11e9-9e31-18e811560cbb.png)
 
