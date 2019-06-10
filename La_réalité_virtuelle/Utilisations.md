@@ -40,3 +40,8 @@ LECOUVEY, Grégory, GONNEAUD, Julie, EUSTACHE, Francis et DESGRANGES, Béatrice.
 
 CHAUDOIR, Renaud. Réalité virtuelle et architecture : visitez votre future habitation. Dans : Logic-immo.be [en ligne]. 26 novembre 2018. [Consulté le 10 juin 2019]. Disponible à l’adresse : [https://www.logic-immo.be/fr/nouvelles-immo/realite-virtuelle-et-architecture-visitez-votre-future-habitation-33381.html](https://www.logic-immo.be/fr/nouvelles-immo/realite-virtuelle-et-architecture-visitez-votre-future-habitation-33381.html)
 ![image](https://user-images.githubusercontent.com/50197262/59212013-a0842d80-8bb1-11e9-937c-f8e4fa45d6bd.png)
+
+<br/>
+
+SWISS, Progress. 3D réalité virtuelle pour l’immobilier et l’architecture d’intérieur. [en ligne]. 19 mars 2018. [Consulté le 10 juin 2019]. Disponible à l’adresse : [https://www.youtube.com/watch?v=HzegUsnfwtI](https://www.youtube.com/watch?v=HzegUsnfwtI)
+![image](https://user-images.githubusercontent.com/50197262/59212557-1046e800-8bb3-11e9-9948-6e42955945c0.png)
