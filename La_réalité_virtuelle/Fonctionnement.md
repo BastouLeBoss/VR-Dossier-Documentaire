@@ -32,12 +32,12 @@ Comprendre Le Fonctionnement De La Réalité Virtuelle. Dans : Catopsys.fr [en
 En vidéo : 
 <br/>
 
-LE BUS DES TECHNOLGIES. Comment fonctionne la réalité virtuelle (VR) ? - YouTube [en ligne]. 13 février 2017. [Consulté le 10 juin 2019]. Disponible à l’adresse : https://www.youtube.com/watch?v=ZtLDHK0cEZs
+LE BUS DES TECHNOLGIES. Comment fonctionne la réalité virtuelle (VR) ? - YouTube [en ligne]. 13 février 2017. [Consulté le 10 juin 2019]. Disponible à l’adresse : [https://www.youtube.com/watch?v=ZtLDHK0cEZs](https://www.youtube.com/watch?v=ZtLDHK0cEZs)
 ![image](https://user-images.githubusercontent.com/50197262/59202364-96a3ff80-8b9c-11e9-84d5-295c9b3e95d0.png)
 
 <br/>
 
-3 MINUTES POUR COMPRENDRE. COMMENT MARCHE LA RÉALITÉ VIRTUELLE ? [en ligne]. 4 mars 2018. [Consulté le 10 juin 2019]. Disponible à l’adresse : https://www.youtube.com/watch?v=8_qqAkJnepw
+3 MINUTES POUR COMPRENDRE. COMMENT MARCHE LA RÉALITÉ VIRTUELLE ? [en ligne]. 4 mars 2018. [Consulté le 10 juin 2019]. Disponible à l’adresse : [https://www.youtube.com/watch?v=8_qqAkJnepw](https://www.youtube.com/watch?v=8_qqAkJnepw) 
 ![image](https://user-images.githubusercontent.com/50197262/59202764-7b85bf80-8b9d-11e9-8387-48af9add7f58.png)
 
 
