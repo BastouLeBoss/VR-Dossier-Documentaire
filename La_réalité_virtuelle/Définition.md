@@ -9,7 +9,7 @@ Retour à l'[Accueil](Accueil.md)
 
 ## Définition
 <br/>
-En texte
+En texte :
 <br/>
 
 Wikipedia. La réalité virtuelle [en ligne]. Mise à jour le 13 mai 2019. [Consulté le 4 juin 2019]. Disponible à l’adresse :[https://fr.wikipedia.org/wiki/Réalité_virtuelle](https://fr.wikipedia.org/wiki/Réalité_virtuelle) Page Version ID: 159242829 
@@ -32,7 +32,7 @@ ARTEFACTO. Définition : Qu’est-ce que la réalité virtuelle ? Dans : A
 
 
 <br/>
-En vidéo:
+En vidéo :
 <br/>
 
 STATISTIKS. La VR c’est quoi ? - Fresh Tech #01- String Theory [en ligne]. 27 février 2017. [Consulté le 10 juin 2019]. Disponible à l’adresse : [https://www.youtube.com/watch?v=CcBpTWMVcww](https://www.youtube.com/watch?v=CcBpTWMVcww)
