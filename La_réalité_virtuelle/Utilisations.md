@@ -87,3 +87,9 @@ FREY, Henri. VR et Réalité Augmentée : le futur des Jeux Vidéo est déjà 
 SILEM, Amar. Communication réalité virtuelle - Comment communiquer efficacement en VR ? [en ligne]. 2015. [Consulté le 10 juin 2019]. Disponible à l’adresse : [http://blog.smartvr-studio.com/communication-publicite-realite-virtuelle](http://blog.smartvr-studio.com/communication-publicite-realite-virtuelle)
 ![image](https://user-images.githubusercontent.com/50197262/59215691-21472780-8bba-11e9-86e5-cb1b94ff5eb1.png)
 
+<br/>
+
+
+JOURDAIN, par Camille. Réalité virtuelle : pourquoi et comment communiquer avec des contenus photos et vidéos 360 | Le Blog iStock. Dans : iStock Blog [en ligne]. [s. d.]. [Consulté le 4 juin 2019]. Disponible à l’adresse : [http://content.istockphoto.com/fr/blog/realite-virtuelle-communiquer-contenus-photos-videos-360/](http://content.istockphoto.com/fr/blog/realite-virtuelle-communiquer-contenus-photos-videos-360/)
+![image](https://user-images.githubusercontent.com/50197262/59215832-8f8bea00-8bba-11e9-8f53-3068532c7197.png)
+
