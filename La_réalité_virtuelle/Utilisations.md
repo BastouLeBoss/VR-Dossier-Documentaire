@@ -84,3 +84,6 @@ FREY, Henri. VR et Réalité Augmentée : le futur des Jeux Vidéo est déjà 
 <br/>
 
 
+SILEM, Amar. Communication réalité virtuelle - Comment communiquer efficacement en VR ? [en ligne]. 2015. [Consulté le 10 juin 2019]. Disponible à l’adresse : [http://blog.smartvr-studio.com/communication-publicite-realite-virtuelle](http://blog.smartvr-studio.com/communication-publicite-realite-virtuelle)
+![image](https://user-images.githubusercontent.com/50197262/59215691-21472780-8bba-11e9-86e5-cb1b94ff5eb1.png)
+
