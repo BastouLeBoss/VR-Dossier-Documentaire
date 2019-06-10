@@ -17,4 +17,5 @@ Réalité-Virtuelle.com. Définition : Qu’est-ce que la réalité virtuelle�
 ![Définition Réalité-Virtuelle](https://user-images.githubusercontent.com/50197262/59144924-1a16f280-89dd-11e9-8325-1345ed527b03.PNG)
 
 
+Fiction Réelle : un autre regard sur la réalité virtuelle et l’actualité VR. La Réalité Virtuelle, qu’est-ce que c’est ? Définition et historique - Fiction Réelle [en ligne]. [Consulté le 8 juin 2019]. Disponible à l’adresse : [https://fictionreelle.fr/definition-realite-virtuelle/](https://fictionreelle.fr/definition-realite-virtuelle/)
 ![Définition Fiction réelle](https://user-images.githubusercontent.com/50197262/59145226-0bcad580-89e1-11e9-8089-41b156547afc.png)
