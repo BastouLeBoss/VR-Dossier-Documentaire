@@ -9,3 +9,10 @@ Retour à l'[Accueil](Accueil.md)
 - [Types](Types.md)
 
 ## Utilisations
+
+L'utilisation de la réalité virtuelle est présente dans plusieurs domaines tel que
+
+- La santé :
+<br/>
+
+
