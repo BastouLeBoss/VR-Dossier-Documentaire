@@ -31,3 +31,6 @@ En vidéo :
 
 USBEK & RICA. La très brève histoire de la réalité virtuelle [en ligne]. 4 octobre 2018. [Consulté le 10 juin 2019]. Disponible à l’adresse : [https://www.youtube.com/watch?v=1AoQS7QxXCw](https://www.youtube.com/watch?v=1AoQS7QxXCw)
 ![image](https://user-images.githubusercontent.com/50197262/59196258-753c1700-8b8e-11e9-9998-f2af96674469.png)
+ 
+<br/>
+
