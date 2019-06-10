@@ -109,3 +109,5 @@ LABBE, Pierrick. Muséum national d’histoire naturelle : une salle de réali
 <br/>
 
 
+GOSCINIAK, Coline. Réalité virtuelle et Réalité augmentée en bibliothèque : panorama et perspectives. 2018, p. 145. Disponible à l'adresse : [https://www.enssib.fr/bibliotheque-numerique/documents/68098-realite-virtuelle-et-realite-augmentee-en-bibliotheque-panorama-et-perspectives.pdf](https://www.enssib.fr/bibliotheque-numerique/documents/68098-realite-virtuelle-et-realite-augmentee-en-bibliotheque-panorama-et-perspectives.pdf)
+![image](https://user-images.githubusercontent.com/50197262/59216536-1beadc80-8bbc-11e9-9c16-2247aa7595ec.png)
