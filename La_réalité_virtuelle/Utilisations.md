@@ -2,7 +2,7 @@
 
 
 Retour à l'[Accueil](Accueil.md)
-- [Définition](définition.md)
+- [Définition](Définition.md)
 - [Historique](Historique.md)
 - [Fonctionnement](Fonctionnement.md)
 - **Utilisations**
