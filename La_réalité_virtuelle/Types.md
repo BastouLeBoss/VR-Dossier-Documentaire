@@ -14,6 +14,8 @@ Retour à l'[Accueil](Accueil.md)
 En Texte :
 <br/>
 
+VR, Casque. Quels sont les différents types de casques de réalité virtuelle ? Dans : Application VR [en ligne]. 20 décembre 2018. [Consulté le 10 juin 2019]. Disponible à l’adresse : [http://application-vr.com/quels-sont-les-differents-types-de-casques-de-realite-virtuelle/](http://application-vr.com/quels-sont-les-differents-types-de-casques-de-realite-virtuelle/)
+![image](https://user-images.githubusercontent.com/50197262/59206538-70369200-8ba5-11e9-8748-7e56a6ba17f8.png)
 
 <br/>
 En Vidéo : 
