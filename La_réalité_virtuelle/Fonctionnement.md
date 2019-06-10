@@ -16,3 +16,4 @@ LA COMMUNAUTÉ. Le fonctionnement d’un casque VR. IN : etr.fr [en ligne]. 2
 ![image](https://user-images.githubusercontent.com/50197262/59198576-5b053780-8b94-11e9-9d1c-f99403231acf.png)
 ![image](https://user-images.githubusercontent.com/50197262/59199308-ef23ce80-8b95-11e9-805c-424b13c1357c.png)
 ![image](https://user-images.githubusercontent.com/50197262/59199406-298d6b80-8b96-11e9-8b0d-2a36e78ae313.png)
+![image](https://user-images.githubusercontent.com/50197262/59199593-99035b00-8b96-11e9-89c9-92e6b2cf4cf1.png)
