@@ -18,6 +18,11 @@ VR, Casque. Quels sont les différents types de casques de réalité virtuelle�
 ![image](https://user-images.githubusercontent.com/50197262/59206538-70369200-8ba5-11e9-8748-7e56a6ba17f8.png)
 
 <br/>
+
+Les 3 types de casques VR – Objectif-info.com : Média généraliste. Dans : Objecti-info.com [en ligne]. 2018. [Consulté le 10 juin 2019]. Disponible à l’adresse : [http://www.objectif-info.com/les-3-types-de-casques-vr/](http://www.objectif-info.com/les-3-types-de-casques-vr/)
+![image](https://user-images.githubusercontent.com/50197262/59208413-58610d00-8ba9-11e9-8b18-3279befd363e.png)
+
+<br/>
 En Vidéo : 
 <br/>
 
