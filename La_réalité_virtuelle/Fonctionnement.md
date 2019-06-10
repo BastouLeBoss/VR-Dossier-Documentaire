@@ -40,4 +40,11 @@ LE BUS DES TECHNOLGIES. Comment fonctionne la réalité virtuelle (VR) ? - YouT
 3 MINUTES POUR COMPRENDRE. COMMENT MARCHE LA RÉALITÉ VIRTUELLE ? [en ligne]. 4 mars 2018. [Consulté le 10 juin 2019]. Disponible à l’adresse : [https://www.youtube.com/watch?v=8_qqAkJnepw](https://www.youtube.com/watch?v=8_qqAkJnepw) 
 ![image](https://user-images.githubusercontent.com/50197262/59202764-7b85bf80-8b9d-11e9-8387-48af9add7f58.png)
 
+<br/>
+
+
+ETRANGE HIGH TECH. Comment fonctionne la Réalité Virtuelle [en ligne]. 14 septembre 2018. Disponible à l’adresse : [https://www.youtube.com/watch?v=8_qqAkJnepw&t=338s](https://www.youtube.com/watch?v=8_qqAkJnepw&t=338s)
+![image](https://user-images.githubusercontent.com/50197262/59203254-7aa15d80-8b9e-11e9-8eb9-75bbe7f2b69a.png)
+
+
 
