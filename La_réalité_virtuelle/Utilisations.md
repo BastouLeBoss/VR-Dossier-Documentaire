@@ -52,7 +52,8 @@ SWISS, Progress. 3D réalité virtuelle pour l’immobilier et l’architecture 
 
 <br/> 
 
-
+GARROUSTE, Romain. La réalité virtuelle pour mieux apprécier les sciences du vivant. Dans : The Conversation [en ligne]. [Consulté le 10 juin 2019]. Disponible à l’adresse : [http://theconversation.com/la-realite-virtuelle-pour-mieux-apprecier-les-sciences-du-vivant-76054](http://theconversation.com/la-realite-virtuelle-pour-mieux-apprecier-les-sciences-du-vivant-76054)
+![image](https://user-images.githubusercontent.com/50197262/59213991-6ec19580-8bb6-11e9-8a99-c4690972c5fa.png)
 
 
 
