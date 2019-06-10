@@ -101,3 +101,11 @@ JOURDAIN, par Camille. Réalité virtuelle : pourquoi et comment communiquer a
 TEXIER, Bruno. Quand la réalité virtuelle reconstitue le patrimoine. Dans : Archimag [en ligne]. 4 août 2017. [Consulté le 4 juin 2019]. Disponible à l’adresse : [https://www.archimag.com/archives-patrimoine/2017/08/04/quand-realite-virtuelle-reconstitue-patrimoine](https://www.archimag.com/archives-patrimoine/2017/08/04/quand-realite-virtuelle-reconstitue-patrimoine)
 ![image](https://user-images.githubusercontent.com/50197262/59216092-2e184b00-8bbb-11e9-8e1d-dee9df28bcb2.png)
 
+<br/>
+
+LABBE, Pierrick. Muséum national d’histoire naturelle : une salle de réalité virtuelle permanente. Dans : Réalité-Virtuelle.com [en ligne]. 20 décembre 2017. [Consulté le 4 juin 2019]. Disponible à l’adresse : [https://www.realite-virtuelle.com/museum-national-histoire-naturelle-vr-2012](https://www.realite-virtuelle.com/museum-national-histoire-naturelle-vr-2012)
+![image](https://user-images.githubusercontent.com/50197262/59216361-beef2680-8bbb-11e9-9aed-8a86e99fd541.png)
+
+<br/>
+
+
