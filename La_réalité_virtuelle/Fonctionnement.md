@@ -27,3 +27,10 @@ Casque de réalité virtuelle : fonctionnement, choix & utilisation | BeDigita
 
 Comprendre Le Fonctionnement De La Réalité Virtuelle. Dans : Catopsys.fr [en ligne]. 2019. [Consulté le 10 juin 2019]. Disponible à l’adresse : [http://catopsys.fr/comment-fonctionne-la-realite-virtuelle.html](http://catopsys.fr/comment-fonctionne-la-realite-virtuelle.html)
 ![image](https://user-images.githubusercontent.com/50197262/59201738-5c862e00-8b9b-11e9-89ad-a1e0f5991758.png)
+
+<br/>
+En vidéo : 
+<br/>
+
+LE BUS DES TECHNOLGIES. Comment fonctionne la réalité virtuelle (VR) ? - YouTube [en ligne]. 13 février 2017. [Consulté le 10 juin 2019]. Disponible à l’adresse : https://www.youtube.com/watch?v=ZtLDHK0cEZs
+![image](https://user-images.githubusercontent.com/50197262/59202364-96a3ff80-8b9c-11e9-84d5-295c9b3e95d0.png)
